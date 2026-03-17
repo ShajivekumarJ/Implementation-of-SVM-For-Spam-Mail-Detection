@@ -16,8 +16,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ## Program:
 ```
 Program to implement the SVM For Spam Mail Detection..
-Developed by: 
-RegisterNumber:  
+Developed by: SHAJIVE KUMAR J
+RegisterNumber: 212225230258 
 ```
 ~~~
 import pandas as pd
@@ -58,6 +58,8 @@ print(cm)
 ~~~
 
 ## Output:
+
 <img width="786" height="444" alt="Screenshot 2026-03-17 082328" src="https://github.com/user-attachments/assets/570868cb-8f79-48b0-8f93-cbaf14c05061" />
+
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
